@@ -1,0 +1,230 @@
+#text-nav {
+    color: green;
+}
+
+nav {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    background-color: #353a40;
+}
+
+.par1 {
+    /* border: 1px solid black; */
+    display: flex;
+}
+
+.navbar-nav {
+    /* border: 1px solid red; */
+    width: 1050px;
+    justify-content: space-between;
+}
+
+.parameters {
+    border: 1px solid red;
+    background-color: #353a40;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.5);
+    height: 40px;
+    margin-top: 15px;
+    margin-right: 20px;
+    border: none;
+}
+
+.section2 {
+    border: 1px solid transparent;
+    width: 100%;
+    height: 860px;
+    background-color: rgba(117, 117, 117, 0.2);
+}
+
+.section21 {
+    width: 92%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: flex-start;
+    background-color: #353a40;
+    padding-left: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.section21 i {
+    width: 40px;
+    color: white;
+    margin-top: 15px;
+}
+
+.section21 h2 {
+    color: white;
+}
+
+.logo {
+    width: 250px;
+    height: 250px;
+}
+
+.part1 {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30px;
+    background-color: white;
+}
+
+#chec1 {
+    height: 20px;
+    margin-top: 110px;
+    color: red;
+}
+
+#chec2 {
+    height: 20px;
+    margin-top: 110px;
+    color: red;
+}
+
+#chec3 {
+    height: 20px;
+    margin-top: 110px;
+    color: red;
+}
+
+.part1 h1 {
+    /* border: 1px solid black; */
+    padding-top: 70px;
+    width: 150px;
+}
+
+#add1 {
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    margin-top: 110px;
+}
+
+#add2 {
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    margin-top: 110px;
+}
+
+#add3 {
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    margin-top: 110px;
+}
+
+#sub1 {
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    margin-top: 110px;
+}
+
+#sub2 {
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    margin-top: 110px;
+}
+
+#sub3 {
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    margin-top: 110px;
+}
+
+#inp1 {
+    height: 30px;
+    margin-top: 110px;
+}
+
+#inp2 {
+    height: 30px;
+    margin-top: 110px;
+}
+
+#inp3 {
+    height: 30px;
+    margin-top: 110px;
+}
+
+#price1 {
+    height: 30px;
+    margin-top: 110px;
+}
+
+#price2 {
+    height: 30px;
+    margin-top: 110px;
+}
+
+#price3 {
+    height: 30px;
+    margin-top: 110px;
+}
+
+.part2 {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30px;
+    background-color: white;
+}
+
+.part2 h1 {
+    padding-top: 70px;
+    width: 150px;
+}
+
+.part3 {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30px;
+    background-color: white;
+}
+
+.part3 h1 {
+    padding-top: 70px;
+    width: 150px;
+}
+
+.section22 {
+    /* border: 1px solid yellow; */
+    width: 95%;
+    margin-left: 30px;
+    background-color: white;
+}
+
+.heart {
+    color: grey;
+    margin-top: 105px;
+}
+
+.heart-color {
+    color: red;
+}
+
+.carousel-control-prev-icon {
+    background-color: grey;
+}
+
+.carousel-control-next-icon {
+    background-color: grey;
+}
